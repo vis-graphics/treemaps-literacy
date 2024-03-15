@@ -10,4 +10,4 @@ This is the GitHub repository for the IEEE Computer Graphics and Applications su
 
 Software for treemap and nodelink diagrams can be found at <a href="https://nodelink-treemap.github.io/">https://nodelink-treemap.github.io/</a> <br>
 To access only the treemaps version, use this link: <a href="https://nodelink-treemap.github.io/treemap">https://nodelink-treemap.github.io/treemap</a><br>
-The source code for the software can be found here  <a href="https://github.com/nodelink-treemap/nodelink-treemap.github.io">https://github.com/nodelink-treemap/nodelink-treemap.github.io</a>
+Source code for the software: <a href="https://github.com/nodelink-treemap/nodelink-treemap.github.io">https://github.com/nodelink-treemap/nodelink-treemap.github.io</a>
