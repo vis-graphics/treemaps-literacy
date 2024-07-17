@@ -26,7 +26,6 @@ NLT,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbp
 NLT,FALSE,Great Britain,30 - 40 km,FALSE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 3,FALSE,Shelter,Climate Proposals,Video,12
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,13
 NLT,FALSE,Great Britain,30 - 40 km,FALSE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,I am not sure,Health Proposals,Video,11
-NLT,TRUE,Great Britain,30 - 40 km,TRUE,25.30%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,13
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$4.50 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,14
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,25.30%,Shanghai,$7.50 ,$50.54 ,42.30 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,12
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,35.20%,Shanghai,$5.20 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 3,FALSE,Shelter,Other Proposals,Video,11
@@ -36,7 +35,6 @@ NLT,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps
 NLT,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 3,FALSE,Shelter,Other Proposals,Video,11
 NLT,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 4,TRUE,I am not sure,Family Proposals,I am not sure,7
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,14
-NLT,FALSE,Great Britain,30 - 40 km,FALSE,17.60%,Seoul,$5.20 ,$50.54 ,42.30 Mbps,$0.80 ,1 to 3,FALSE,I am not sure,Health Proposals,Video,7
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 1,FALSE,Shelter,Climate Proposals,Video,12
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,35.20%,Shanghai,$5.20 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,13
 NLT,FALSE,Great Britain,30 - 40 km,TRUE,35.20%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,I am not sure,Climate Proposals,Music,11
@@ -68,12 +66,14 @@ T,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$
 T,FALSE,Japan,30 - 40 km,TRUE,17.60%,Shanghai,$4.50 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,13
 T,FALSE,Great Britain,30 - 40 km,TRUE,35.20%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 3,FALSE,Shelter,Climate Proposals,Video,12
 T,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 3,FALSE,I am not sure,Climate Proposals,Video,12
+T,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,12
 T,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 3,FALSE,I am not sure,Climate Proposals,Video,13
 T,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 3,FALSE,Shelter,Climate Proposals,Video,13
 T,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,13
 T,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,15
 T,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,15
 T,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,15
+T,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$7.50 ,$50.54 ,40.51 Mbps,$0.80 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,12
 T,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,15
 T,TRUE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$5.20 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,I am not sure,Climate Proposals,Video,12
 T,FALSE,Great Britain,30 - 40 km,TRUE,17.60%,Shanghai,$6.10 ,$50.54 ,40.51 Mbps,$0.71 ,1 to 2,FALSE,Shelter,Climate Proposals,Video,15
