@@ -33,8 +33,8 @@ NLT,18-24,Male,Graduate Degree,Maybe
 NLT,18-24,Female,4-Year College,No
 NLT,18-24,Male,4-Year College,No
 NLT,18-24,Male,High School Degree or GED,Maybe
-NLT,18-24,Male,High School Degree or GED,No
-NLT,18-24,Female,2-Year College,No
+T,18-24,Male,High School Degree or GED,No
+T,18-24,Female,2-Year College,No
 T,18-24,Male,4-Year College,Maybe
 T,18-24,Female,4-Year College,No
 T,18-24,Female,4-Year College,No
@@ -63,5 +63,6 @@ T,18-24,Male,4-Year College,No
 T,18-24,Male,4-Year College,Maybe
 T,18-24,Male,4-Year College,Maybe
 T,18-24,Male,4-Year College,Yes
+T,18-24,Male,4-Year College,No
 T,18-24,Male,4-Year College,No
 T,18-24,Male,4-Year College,No
